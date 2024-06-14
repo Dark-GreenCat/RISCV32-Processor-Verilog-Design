@@ -1,6 +1,6 @@
-# RV32I Processor Verilog Design
+# Single Cycle RISCV32 Processor Verilog Design
 
-Welcome to **RV32I Processor Verilog Design**!
+Welcome to **Single Cycle RISCV32 Processor Verilog Design**!
 
 This project is aimed to reproduce the design process of RISC-V Architecture.  
 In the scope of this project, single-cycle processor is prefered to achieve the most simple approach.
@@ -11,4 +11,4 @@ In the scope of this project, single-cycle processor is prefered to achieve the 
 
 #### ***1.1.1. Adder***
 
-![Adder](design/images/adder.png)
+<img src="design/images/adder.png" alt="image" width="300" height="auto">
